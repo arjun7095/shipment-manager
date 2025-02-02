@@ -3,7 +3,7 @@ import sys
 import os
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 from unittest.mock import Mock
-from src.shipment_manager import ShipmentManager
+from app.shipment_manager import ShipmentManager
 
 
 class TestShipmentManager(unittest.TestCase):

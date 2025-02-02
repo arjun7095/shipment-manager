@@ -1,0 +1,24 @@
+{
+  "T10001": {
+    "id": "T10001",
+    "sender": {
+      "name": "John Doe",
+      "address": "Main Street 22, 55555 Cyberville"
+    },
+    "recipient": {
+      "name": "Peter Doe",
+      "address": "Narrow Street 12, 33333 Analogia"
+    }
+  },
+  "T10002": {
+    "id": "T10002",
+    "sender": {
+      "name": "Alice Allison",
+      "address": "Acacia Avenue 22, 11111 Forestery"
+    },
+    "recipient": {
+      "name": "Bob Bumpy",
+      "address": "Bump Street 32, 22222 Meadows"
+    }
+  }
+}
